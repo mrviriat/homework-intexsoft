@@ -1,3 +1,2 @@
 # homework-intexsoft
-
 Казак Евгений
