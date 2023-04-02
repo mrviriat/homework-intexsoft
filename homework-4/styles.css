@@ -16,6 +16,7 @@
     justify-content: center;
     display: flex;
     padding: 10px 0px 10px 0px;
+    color: #324658;
 }
 
 .container {
@@ -25,6 +26,7 @@
     border-radius: 3px;
     padding: 3px;
     box-shadow: 0 0 5px rgb(55, 134, 176);
+    z-index: 1;
 }
 
 .containerF {
@@ -51,9 +53,15 @@
     justify-content: center;
 }
 
-.innerContainerFT {
+.innerContainerF {
     background-color: #ffffff;
     height: 300px;
+    border-bottom-left-radius: 2px;
+}
+.innerContainerT {
+    background-color: #ffffff;
+    height: 300px;
+    border-bottom-right-radius: 2px;
 }
 
 
