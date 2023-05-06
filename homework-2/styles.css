@@ -1,0 +1,71 @@
+body {
+    font-family: 'UKIJNasqZilwaRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+
+div {
+    width: 593px;
+}
+
+table {
+    table-layout: fixed;
+    width: 398px;
+    border: 1px solid black;
+}
+
+p:first-letter {
+    font-size: 200%;
+    color: red;
+}
+
+td {
+    border: 1px solid black;
+}
+
+th {
+    border: 1px solid black;
+}
+
+ul li:last-child ol {
+    color: red;
+}
+
+ul li:first-child ol {
+    color: gray;
+}
+
+ul:last-of-type li:first-child ol {
+    color: #008100;
+}
+
+.green_Back {
+    background-color: #008100;
+    color: white;
+}
+
+h1,
+h2 {
+    color: #ffa700;
+}
+
+h2:last-of-type {
+    color: blue
+}
+
+.right_Position {
+    text-align: right;
+}
+
+td {
+    background-color: #008100;
+    color: white;
+    text-align: center;
+}
+
+td:first-child {
+    background-color: white;
+    color: #ffa700;
+    text-align: left;
+    width: 170px;
+}

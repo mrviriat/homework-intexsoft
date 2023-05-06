@@ -1,0 +1,91 @@
+.container {
+    background-color: #ee8223;
+    width: 231px;
+    height: 368px;
+    border-radius: 3px;
+    padding: 3px;
+    box-shadow: 0 0 5px rgb(55, 134, 176);
+}
+
+.hContainer {
+    height: 59px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.innerContainer {
+    background-color: #ffffff;
+    height: 309px;
+}
+
+span b {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+
+.headDiv {
+    padding-top: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 14px; */
+    /* margin-left: 45px;  */
+}
+
+.headSpan {
+    font-size: 19px;
+    color: #324658;
+}
+
+.coastDiv {
+    padding: 6px;
+    height: 70px;
+    /* display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+.coast {
+    color: #324658;
+    font-size: 62px;
+    position: absolute;
+    left: 80px;
+}
+
+.dool {
+    color: #324658;
+    font-size: 19px;
+    position: absolute;
+    left: 65px;
+    top: 120px;
+}
+
+.Monthly {
+    color: #324658;
+    font-size: 15px;
+    position: absolute;
+    left: 137px;
+    top: 161px;
+}
+
+.thirdDiv {
+    padding: 12px 12px 0px 12px;
+}
+
+.card {
+    font-size: 13px;
+    color: #8a8e96;
+}
+
+.forthDiv {
+    margin: 8px 15px 0px 15px;
+    height: 29px;
+    background-color: #ee8223;
+    border-radius: 3px;
+    border-bottom: 3px solid #b45503;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

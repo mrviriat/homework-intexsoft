@@ -1,0 +1,160 @@
+.mainContainer {
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+}
+
+._Container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.mainText {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 10px 0px 10px 0px;
+    color: #324658;
+}
+
+.container {
+    background-color: #ee8223;
+    width: 231px;
+    height: 368px;
+    border-radius: 3px;
+    padding: 3px;
+    box-shadow: 0 0 5px rgb(55, 134, 176);
+    z-index: 1;
+}
+
+.containerF {
+    background-color: #34c3d4;
+    width: 231px;
+    height: 350px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border: 1px solid grey
+}
+
+.containerT {
+    background-color: #15b89b;
+    width: 231px;
+    height: 350px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border: 1px solid grey
+}
+.hContainerFT {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.innerContainerF {
+    background-color: #ffffff;
+    height: 300px;
+    border-bottom-left-radius: 2px;
+}
+.innerContainerT {
+    background-color: #ffffff;
+    height: 300px;
+    border-bottom-right-radius: 2px;
+}
+
+
+.hContainer {
+    height: 59px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.innerContainer {
+    background-color: #ffffff;
+    height: 309px;
+}
+
+span b {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+
+.headDiv {
+    padding-top: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 14px; */
+    /* margin-left: 45px;  */
+}
+
+.headSpan {
+    font-size: 19px;
+    color: #324658;
+}
+
+.coastDiv {
+    padding: 6px;
+    height: 70px;
+    /* display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+.coast {
+    color: #324658;
+    font-size: 62px;
+    position: relative;
+    left: 49px;
+}
+
+.dool {
+    color: #324658;
+    font-size: 19px;
+    position: relative;
+    left: 48px;
+    top: -31px;
+}
+
+.Monthly {
+    color: #324658;
+    font-size: 15px;
+    position: relative;
+    left: 40px;
+    top: 7px;
+}
+
+.thirdDiv {
+    padding: 12px 12px 0px 12px;
+}
+
+.card {
+    font-size: 13px;
+    color: #8a8e96;
+}
+
+.forthDiv {
+    margin: 8px 15px 0px 15px;
+    height: 29px;
+    background-color: #ee8223;
+    border-radius: 3px;
+    border-bottom: 3px solid #b45503;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.forthDivFT {
+    margin: 8px 15px 0px 15px;
+    height: 29px;
+    background-color: #2f72a7;
+    border-radius: 3px;
+    border-bottom: 3px solid #0e4069;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
